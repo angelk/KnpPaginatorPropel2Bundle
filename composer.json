@@ -2,6 +2,7 @@
     "name": "potaka/knp-paginator-propel2bundle",
     "description": "KnpPaginatorPropel2Bundle",
     "require": {
+	"knplabs/knp-paginator-bundle": "2.*"
     },
     "autoload": {
         "psr-0": {
