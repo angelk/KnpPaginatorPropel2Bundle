@@ -1,0 +1,1 @@
+# KnpPaginatorPropel2Bundle
