@@ -1,0 +1,11 @@
+{
+    "name": "KnpPaginatorPropel2Bundle",
+    "description": "KnpPaginatorPropel2Bundle",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Potaka": "src/"
+        }
+    }
+}

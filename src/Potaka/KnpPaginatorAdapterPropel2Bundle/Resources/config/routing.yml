@@ -1,0 +1,3 @@
+potaka_knp_paginator_adapter_propel2_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: PotakaKnpPaginatorAdapterPropel2Bundle:Default:index }
